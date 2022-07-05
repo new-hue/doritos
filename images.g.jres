@@ -1,0 +1,57 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAD/////AAAAAB8REfEAAAAAH//x/wAAAAAf//H/AAAAAB8R8f8AAAAA/////wAAAAD/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "placeholderguy"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAABABAAAAAAAAEAAAAAERIQIQAAAQAIEYAhAAAAEAERESERERAACBGAIQAAABABEhAhAAABAAAAAAEAAAAAEAAAAQAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "betterguy"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAA/////////wD/////////AP////////8A/////////wD/////////AP/x////H/EA//H////x8QD/8f//H//xAP/x///x//EA/xH/H///8QD/HxHx///xAP////////EA/////////wD/////////AP////////8A/////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "option2"
+    },
+    "image3": {
+        "data": "hwQQABAAAAD/////////////////////////////////////////////H//////x///x//////H/H///////8f/x///////x/xEREREREfH/////////8f/////////x//////////H/////////8f///////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "option1"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERVRUREBABAVURUVUUAAABURUVVBAAAAEBFVUUAAAAAAFVEBAAAAAAAUEUAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "david_Dorito"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cheese_Blast"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "star2"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "star1"
+    },
+    "image9": {
+        "data": "hwQUABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIgAAAAAAAAAAAAAyIwIAAAAAAAAAAAAiIiIAAAAAAAAAAAAgIiICAAAAAAAAAAAAIiIiAAAAAAAAAAAgIrICAAAAAAAAAAAiIisAAAAAAAAAAAAiIgIAAAAAAAAAAAAgIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "heart_One"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAO4A7u4AAAAA7u7u7g4AAADg7u7uDgAAAO7u7u7uAAAA7u7u7u4AAADg7u7uDgAAAODu7u4OAAAA4O7u7g4AAADg7u7u7gAAAO7u7u7uAAAA7gRe5A4EAABQREREQAQAACBFRCJSAgAAICIiIiICAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "comet"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
